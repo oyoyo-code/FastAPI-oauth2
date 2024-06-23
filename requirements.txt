@@ -1,0 +1,8 @@
+fastapi==0.99.1
+uvicorn
+sqlalchemy
+aiomysql
+email-validator
+passlib[bycrypt]
+python-jose[cryptography]
+debugpy
